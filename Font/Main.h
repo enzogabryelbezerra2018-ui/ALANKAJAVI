@@ -1,3 +1,4 @@
+#include <simbols.h>
 #define LETRA_Q /** THE QWERT */
 #define LETRA_W /** THE QWERT */
 #define LETRA_E /** THE QWERT */
