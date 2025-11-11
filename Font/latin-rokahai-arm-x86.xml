@@ -1,12 +1,38 @@
 /**
-* COPYRHIGT (C) ENZO
-* OFICIAL FONT
-*/
-<coment="NO COPY CODE">
-<all_pala="
-#1 OIA ==> olá
-#2 FRANCIES ==> pessoa,pessoas,pessoal
-#3 FRATCIÄSŌ ==> os,as,o,a
-#4 FÂZKOÖËD ==> mer$@,mer$@s,coc$
-#5 KOKÔFAZLOSIÄ ==> oi,teste,testando,testa,testes
-#6 KOHOFÅÇÕÄ ==> nome,nomes,noma,nome"
+ * COPYRIGHT (C) ENZO
+ * OFICIAL FONT / OFFICIAL LANGUAGE MAP
+ */
+
+<dictionary>
+    <comment>No copy code</comment>
+
+    <entry id="1">
+        <word>OIA</word>
+        <meaning>olá</meaning>
+    </entry>
+
+    <entry id="2">
+        <word>FRANCIES</word>
+        <meaning>pessoa, pessoas, pessoal</meaning>
+    </entry>
+
+    <entry id="3">
+        <word>FRATCIÄSŌ</word>
+        <meaning>os, as, o, a</meaning>
+    </entry>
+
+    <entry id="4">
+        <word>FÂZKOÖËD</word>
+        <meaning>mer$&, mer&@$, coc&</meaning>
+    </entry>
+
+    <entry id="5">
+        <word>KOKÔFAZLOSIÄ</word>
+        <meaning>oi, teste, testando, testa, testes</meaning>
+    </entry>
+
+    <entry id="6">
+        <word>KOHOFÅÇÕÄ</word>
+        <meaning>nome, nomes, noma, nome</meaning>
+    </entry>
+</dictionary>
